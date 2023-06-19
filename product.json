@@ -1,12 +1,12 @@
 [
-  {"brand" : "Khong Guan", "productName" : "Biskuit Kaleng Khong Guan", "imageId" : "biskuit"),
-  {"brand" :  "Indomie", "productName" : "Mie Instan Goreng Original", "imageId" : "indomie"),
-  {"brand" : "Pronas", "productName" : "Kornet Daging Sapi", "imageId" : "kornet"),
-  {"brand" : "Sariwangi", "productName" : "Teh Sari Murni", "imageId" : "teh_sarimurni"),
-  {"brand" : "Ultramilk", "productName" : "Susu Rasa Coklat", "imageId" : "ultramilk"),
-  {"brand" : "Cimory", "productName" : "Yogurt Drink Low Fat", "imageId" : "yoghurt"),
-  {"brand" : "Sedaap", "productName" : "Minyak Goreng 2liter", "imageId" : "minyak_goreng"),
-  {"brand" : "Shinzui", "productName" : "Body Cleanser 450Ml", "imageId" : "shinzui"),
-  {"brand" : "Bango", "productName" : "Kecap Manis 600ml", "imageId" : "kecap_bango"),
-  {"brand" : "Maspion", "productName" : "Setrika Spray", "imageId" : "setrika")
+  {"brand" : "Khong Guan", "productName" : "Biskuit Kaleng Khong Guan", "imageId" : "biskuit"},
+  {"brand" :  "Indomie", "productName" : "Mie Instan Goreng Original", "imageId" : "indomie"},
+  {"brand" : "Pronas", "productName" : "Kornet Daging Sapi", "imageId" : "kornet"},
+  {"brand" : "Sariwangi", "productName" : "Teh Sari Murni", "imageId" : "teh_sarimurni"},
+  {"brand" : "Ultramilk", "productName" : "Susu Rasa Coklat", "imageId" : "ultramilk"},
+  {"brand" : "Cimory", "productName" : "Yogurt Drink Low Fat", "imageId" : "yoghurt"},
+  {"brand" : "Sedaap", "productName" : "Minyak Goreng 2liter", "imageId" : "minyak_goreng"},
+  {"brand" : "Shinzui", "productName" : "Body Cleanser 450Ml", "imageId" : "shinzui"},
+  {"brand" : "Bango", "productName" : "Kecap Manis 600ml", "imageId" : "kecap_bango"},
+  {"brand" : "Maspion", "productName" : "Setrika Spray", "imageId" : "setrika"}
 ]
